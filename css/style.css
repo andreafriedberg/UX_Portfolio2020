@@ -1,0 +1,25 @@
+.navigation-bar {
+    width: 100%; 
+    height: 183px;
+    background-color: #3C4665;
+}
+.logo-img {
+    display: inline-block;
+    vertical-align: top;
+    width: 122px;
+    height: 162 px;    
+}
+.topnav {
+    background-color: #3C4665;
+    overflow: hidden;
+}
+.topnav a {
+    color: #FCFCFD;
+    text-align: center;
+    padding: 10 px; 
+    font-size: 40px;
+}
+.topnav a:hover {
+    background-color: #9FC1A6;
+    color: greenyellow;
+}
